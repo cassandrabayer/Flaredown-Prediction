@@ -37,3 +37,17 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git add .
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git commit -m "picking back up work 06/23/18"
+[master fe2999f] picking back up work 06/23/18
+ 5 files changed, 179 insertions(+), 2 deletions(-)
+ create mode 100644 .Rproj.user/79FC296B/console06/53B5F661.env
+ rewrite .Rproj.user/79FC296B/console06/INDEX001 (87%)
+ rename .Rproj.user/79FC296B/sources/{s-48CB19CE => s-A5C5546A}/lock_file (100%)
+ create mode 100644 Controller.R
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ c[K
