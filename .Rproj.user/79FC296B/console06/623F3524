@@ -26,3 +26,35 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git add .
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git commit -m "facetted graphs [K"
+[master f9a4a60] facetted graphs
+ 17 files changed, 101 insertions(+), 17 deletions(-)
+ create mode 100644 .Rproj.user/79FC296B/console06/623F3524
+ rewrite .Rproj.user/79FC296B/console06/INDEX001 (100%)
+ create mode 100644 .Rproj.user/79FC296B/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/79FC296B/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/79FC296B/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/79FC296B/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/79FC296B/persistent-state
+ create mode 100644 .Rproj.user/79FC296B/rmd-outputs
+ create mode 100644 .Rproj.user/79FC296B/saved_source_markers
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/79FC296B/console06/623F3524[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/prop/A68FDB03[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68-contents[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/79FC296B/console06/623F3524.env[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git add .
