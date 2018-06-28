@@ -1,14 +1,22 @@
+# Date: 06/28/18
+# Objective: Create a preliminary timeseries analysis for predicting flares
+
 
 # Sample timeseries -------------------------------------------------------------------------------------
 timeseriesDt <- fd[user_id == "QEVuQwEAlNMIH8RXhjZvx6HzoW8iXQ=="][order(checkin_date)]
 timeseriesDt[trackable_type %in% c("Condition", "Symptom"), N := .N, by = trackable_name]
-timeseriesDt <- timeseriesDt[N>500]
+timeseriesDt <- timeseriesDt[N>800]
 timeseriesDt[, N := NULL]
 
-timeseriesDt <- dcast(timeseriesDt, checkin_date ~ trackable_name, value.var = "trackable_value")
+timeseriesDt <- dcast(timeseriesDt, checkin_date ~ trackable_name, value.var = "trackable_value",
+                      fun.aggregate = mean)
+timeseriesDt <-  timeseriesDt[complete.cases(timeseriesDt)]
 timeseriesDt[, lapply(.SD, as.integer), .SDcols = names(timeseriesDt[, 2:ncol(timeseriesDt)])]
 timeseriesDt <- timeseriesDt[order(checkin_date)]
 
+timeseriesDt[order(checkin_date)]
 myts <- ts(timeseriesDt[,2:ncol(timeseriesDt)], start = c(2015, 8, 30), frequency = 365,end = c(2018, 3, 5))
 autoplot(myts, facets = T)
 autoplot(myts, facets = F)
+
+
