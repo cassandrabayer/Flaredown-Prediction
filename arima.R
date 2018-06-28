@@ -1,0 +1,13 @@
+# Date: 06/28/2018
+# Objective: Test run with ARIMA modeling
+
+
+# About ARIMA -------------------------------------------------------------------------------------------
+# - ARIMA assumes non-seasonal data (or, if you have seasonal data, you can de-seasonalize it)
+
+
+
+# Pre-processing ----------------------------------------------------------------------------------------
+setwd("/Users/cassandrabayer/Desktop/Flaredown Prediction/Flaredown-Prediction")
+source("Controller.R")
+getwd()
