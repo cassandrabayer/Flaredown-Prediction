@@ -8,5 +8,6 @@
 
 
 # Pre-processing ----------------------------------------------------------------------------------------
+setwd("/Users/cassandrabayer/Desktop/Flaredown Prediction/Flaredown-Prediction")
 source("Controller.R")
 getwd()

@@ -1,6 +1,7 @@
 # Date: 06/28/18
 # Objective: Create a preliminary timeseries analysis for predicting flares
 setwd("/Users/cassandrabayer/Desktop/Flaredown Prediction/Flaredown-Prediction")
+source("Controller.R")
 # Sample timeseries -------------------------------------------------------------------------------------
 ## Choosing one user for multiple conditions
 timeseriesDt <- fd[user_id == "QEVuQwEAlNMIH8RXhjZvx6HzoW8iXQ=="][order(checkin_date)]

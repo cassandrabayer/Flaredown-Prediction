@@ -93,3 +93,14 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git add .
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git commit -m "switched directories"
+[master ab85e6c] switched directories
+ 17 files changed, 220 insertions(+), 19 deletions(-)
+ create mode 100644 .DS_Store
+ create mode 100644 .Rproj.user/.DS_Store
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/1745F743
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/5AB2A1E2
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/51E28F70
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/51E28F70-contents
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/6EB4EF45-contents
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git add .
