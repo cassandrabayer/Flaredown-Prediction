@@ -97,3 +97,15 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git add .
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git commit -m "preliminary T[Ktimeseries analysis"
+[master 524d052] preliminary timeseries analysis
+ 10 files changed, 193 insertions(+), 1 deletion(-)
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/8217EBF5
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/A68FDB03
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/INDEX
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/4BF07B85
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/4BF07B85-contents
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68
+ create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68-contents
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ 
