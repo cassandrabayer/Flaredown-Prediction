@@ -5,19 +5,19 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1802889890",
+    "hash" : "0",
     "id" : "51E28F70",
-    "lastKnownWriteTime" : 1530206922,
-    "last_content_update" : 1530206922110,
+    "lastKnownWriteTime" : 1530209192,
+    "last_content_update" : 1530209192117,
     "path" : "~/Desktop/Flaredown Prediction/Flaredown-Prediction/arima.R",
     "project_path" : "arima.R",
     "properties" : {
-        "cursorPosition" : "12,6",
-        "scrollLine" : "0",
+        "cursorPosition" : "64,46",
+        "scrollLine" : "32",
         "tempName" : "Untitled1"
     },
     "relative_order" : 3,
-    "source_on_save" : false,
+    "source_on_save" : true,
     "source_window" : "",
     "type" : "r_source"
 }

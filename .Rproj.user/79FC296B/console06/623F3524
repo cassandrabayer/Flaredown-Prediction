@@ -110,3 +110,30 @@ no changes added to commit (use "git add" and/or "git commit -a")
 [master c9f964f] added arima
  9 files changed, 24 insertions(+), 11 deletions(-)
 ]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git add .
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git o[Kcommit -m "ud[Kpdated"
+[master fb0287c] updated
+ 11 files changed, 144 insertions(+), 10 deletions(-)
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/9A01AF05
+ create mode 100644 .Rproj.user/79FC296B/sources/prop/D47A2D21
+ create mode 100644 arima.R
+ create mode 100644 timeseries.R
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ [KCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ [KCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ [KCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .DS_Store[m
+	[31mmodified:   .Rproj.user/.DS_Store[m
+	[31mmodified:   .Rproj.user/79FC296B/console06/623F3524[m
+	[31mmodified:   .Rproj.user/79FC296B/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/prop/9A01AF05[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/prop/D47A2D21[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/s-A5C5546A/51E28F70[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/s-A5C5546A/51E28F70-contents[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68[m
+	[31mmodified:   arima.R[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ git add .
