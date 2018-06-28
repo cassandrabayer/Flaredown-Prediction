@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529778802270.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4BF07B85",
+    "lastKnownWriteTime" : 1524017258,
+    "last_content_update" : 1524017258,
+    "path" : "~/Desktop/Flaredown Prediction/Flaredown-Prediction/Controller.R",
+    "project_path" : "Controller.R",
+    "properties" : {
+        "cursorPosition" : "79,18",
+        "scrollLine" : "65"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
