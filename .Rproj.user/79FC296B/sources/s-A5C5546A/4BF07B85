@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1396256429",
     "id" : "4BF07B85",
-    "lastKnownWriteTime" : 1530191617,
-    "last_content_update" : 1530191617803,
+    "lastKnownWriteTime" : 1530206794,
+    "last_content_update" : 1530206794273,
     "path" : "~/Desktop/Flaredown Prediction/Flaredown-Prediction/Controller.R",
     "project_path" : "Controller.R",
     "properties" : {
-        "cursorPosition" : "19,1",
-        "scrollLine" : "8"
+        "cursorPosition" : "20,15",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,
