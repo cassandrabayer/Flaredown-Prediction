@@ -108,4 +108,38 @@ no changes added to commit (use "git add" and/or "git commit -a")
  create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68
  create mode 100644 .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68-contents
  create mode 100644 .Rproj.user/shared/notebooks/paths
-]0;~/Desktop/Flaredown Prediction/Flaredown-Prediction[?1034hCassandras-MacBook-Air:Flaredown-Prediction cassandrabayer$ 
+[KCassandras-Air:Flaredown-Prediction cassandrabayer$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .DS_Store[m
+	[31mmodified:   .Rproj.user/.DS_Store[m
+	[31mmodified:   .Rproj.user/79FC296B/console06/53B5F661[m
+	[31mmodified:   .Rproj.user/79FC296B/console06/623F3524[m
+	[31mmodified:   .Rproj.user/79FC296B/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/79FC296B/pcs/source-pane.pper[m
+	[31mmodified:   .Rproj.user/79FC296B/pcs/windowlayoutstate.pper[m
+	[31mmodified:   .Rproj.user/79FC296B/sources/prop/9A01AF05[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/4BF07B85[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/4BF07B85-contents[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/51E28F70[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/51E28F70-contents[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/6EB4EF45-contents[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/F4F87C68-contents[m
+	[31mdeleted:    .Rproj.user/79FC296B/sources/s-A5C5546A/lock_file[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.RData[m
+	[31m.Rhistory[m
+	[31m.Rproj.user/79FC296B/sources/s-2514D9E7/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git add .
+git ]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git p
+]0;~/Desktop/Flaredown Prediction/Flaredown-PredictionCassandras-Air:Flaredown-Prediction cassandrabayer$ git add .

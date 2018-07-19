@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529781192922.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F4F87C68",
+    "lastKnownWriteTime" : 1530206907,
+    "last_content_update" : 1530206907636,
+    "path" : "~/Desktop/Flaredown Prediction/Flaredown-Prediction/timeseries.R",
+    "project_path" : "timeseries.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
